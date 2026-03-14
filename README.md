@@ -19,10 +19,14 @@
   <a href="https://technopage.netlify.app/#services">
     <img src="https://img.shields.io/badge/Live%20Demo-View%20Project-brightgreen?style=for-the-badge" alt="Live Demo">
   </a>
-  <img src="https://img.shields.io/github/license/hey-itz-sameerkhan/YourTech-Solutions?style=for-the-badge" alt="License">
-  <img src="https://img.shields.io/github/last-commit/hey-itz-sameerkhan/YourTech-Solutions?style=for-the-badge" alt="Last Commit">
+
+   <img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge" alt="MIT License">
+
+  <img src="https://img.shields.io/github/last-commit/hey-itz-sameerkhan/Technopage-tech-blog?style=for-the-badge" alt="Last Commit">
+
   <img src="https://img.shields.io/badge/Made%20With-HTML%20|%20CSS%20|%20JavaScript-blueviolet?style=for-the-badge" alt="Tech Stack">
-  <img src="https://img.shields.io/github/stars/hey-itz-sameerkhan/YourTech-Solutions?style=social" alt="Stars">
+
+  <img src="https://img.shields.io/github/stars/hey-itz-sameerkhan/Technopage-tech-blog?style=social" alt="Stars">
 </p>
 
 ---
@@ -39,8 +43,7 @@ Designed with simplicity and speed in mind, this landing page demonstrates how *
 
 # 🚀 Live Demo
 
-🎯 **Experience the website:**  
-https://technopage.netlify.app/#services
+🎯 **Experience it now:** [🌐 YourTech Solutions — Premium Landing Experience](https://technopage.netlify.app/)
 
 ---
 
