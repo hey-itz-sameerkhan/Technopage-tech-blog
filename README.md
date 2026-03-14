@@ -7,7 +7,7 @@
       </td>
       <td align="left">
         <h1>🌐 YourTech Solutions — Premium Landing Experience</h1>
-        <em>🚀 A modern one-page landing website designed for performance, elegance, and smooth digital storytelling.</em>
+        <em>🚀 A modern one-page landing designed for performance, elegance, and smooth digital storytelling.</em>
       </td>
     </tr>
   </table>
@@ -111,10 +111,14 @@ CMS integration for dynamic content
 
 Improved SEO optimization
 
-📜 License
+---
+
+# 📜 License
 
 This project is licensed under the MIT License.
 See the LICENSE file for details.
 
-❤️ Author
-<p align="center"> <b>✨ Created with ❤️ by <a href="https://github.com/hey-itz-sameerkhan">Sameer Khan</a> ✨</b> <br> <sub>Crafting modern web experiences</sub> </p> ```
+---
+
+# ❤️ Author
+<p align="center"> <b>✨ Created with ❤️ by <a href="https://github.com/hey-itz-sameerkhan">Sameer Khan</a> ✨</b> <br> <sub>Crafting modern web experiences</sub> </p> 
