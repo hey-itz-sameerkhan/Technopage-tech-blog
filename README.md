@@ -3,7 +3,7 @@
   <table>
     <tr>
       <td align="left" width="260">
-        <img src="https://github.com/user-attachments/assets/963c79aa-da62-460c-9ec8-a6c4d089396e" alt="Project Preview" width="260">
+        <img src="https://github.com/hey-itz-sameerkhan/Technopage-tech-blog/blob/main/Images/hero%20section%20images/Project-Logo.webp" alt="Project Preview" width="260">
       </td>
       <td align="left">
         <h1>🌐 YourTech Solutions — Premium Landing Experience</h1>
