@@ -1,48 +1,120 @@
-# 🌐 YourTech Solutions — Premium One-Page Landing
-
-**Transforming ideas into delightful digital experiences.**  
-A premium one-page landing built with **vanilla HTML, CSS, and JavaScript**.  
-Features smooth scrolling, cinematic hero animations, and a performance-first design.
-
----
-
-## 🚀 Live Demo
-🔗 [View the Live Project<img width="1910" height="919" alt="Screenshot 2025-09-17 175902" src="https://github.com/user-attachments/assets/963c79aa-da62-460c-9ec8-a6c4d089396e" />
-](https://technopage.netlify.app/#services)
-
----
-
-## ✨ Features
-- 🎬 **Cinematic Hero** — 3D illustration with smooth entrance animation  
-- 📱 **Responsive & Accessible** — semantic HTML, mobile-first design, keyboard-friendly  
-- 🌀 **Smooth Scrolling** — Locomotive Scroll for buttery section transitions  
-- 🎨 **Scroll Animations** — GSAP + ScrollTrigger for parallax & reveal effects  
-- 💼 **Interactive Services** — hover + reveal micro-interactions  
-- 💬 **Testimonials Carousel** — infinite, swipe-friendly carousel with trust signals  
-- ⚡ **Performance Optimized** — lazy images, will-change hints, lightweight DOM  
-- 📩 **Contact Form** — client-side validation with conversion-focused CTA  
+<!-- PROJECT HEADER -->
+<p align="center">
+  <table>
+    <tr>
+      <td align="left" width="260">
+        <img src="https://github.com/user-attachments/assets/963c79aa-da62-460c-9ec8-a6c4d089396e" alt="Project Preview" width="260">
+      </td>
+      <td align="left">
+        <h1>🌐 YourTech Solutions — Premium Landing Experience</h1>
+        <em>🚀 A modern one-page landing website designed for performance, elegance, and smooth digital storytelling.</em>
+      </td>
+    </tr>
+  </table>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
-- **HTML5** — semantic structure  
-- **CSS3** — custom properties, responsive grid & flexbox  
-- **JavaScript (Vanilla)** — clean, modular enhancements  
-- **Locomotive Scroll** — smooth native-like scrolling  
-- **GSAP + ScrollTrigger** — GPU-friendly animations  
-- **Deployment:** Netlify  
-
-
----
-
-## 📜 License
-This project is released under the **MIT License**.  
-You’re free to use, modify, and distribute it. See the [LICENSE](LICENSE) file for details.
+<p align="center">
+  <a href="https://technopage.netlify.app/#services">
+    <img src="https://img.shields.io/badge/Live%20Demo-View%20Project-brightgreen?style=for-the-badge" alt="Live Demo">
+  </a>
+  <img src="https://img.shields.io/github/license/hey-itz-sameerkhan/YourTech-Solutions?style=for-the-badge" alt="License">
+  <img src="https://img.shields.io/github/last-commit/hey-itz-sameerkhan/YourTech-Solutions?style=for-the-badge" alt="Last Commit">
+  <img src="https://img.shields.io/badge/Made%20With-HTML%20|%20CSS%20|%20JavaScript-blueviolet?style=for-the-badge" alt="Tech Stack">
+  <img src="https://img.shields.io/github/stars/hey-itz-sameerkhan/YourTech-Solutions?style=social" alt="Stars">
+</p>
 
 ---
 
-## ❤️ Made With
-Made with ❤️ by **Sameer Khan**  
-> *“Design is the silent ambassador of your brand.”*
+# ✨ Overview
+
+**YourTech Solutions** is a **premium one-page landing experience** crafted to transform ideas into delightful digital products.
+
+It blends **modern web aesthetics**, **cinematic animations**, and **high-performance front-end architecture** to create a smooth, immersive browsing experience.
+
+Designed with simplicity and speed in mind, this landing page demonstrates how **pure frontend technologies** can deliver a **high-end interactive user experience**.
 
 ---
+
+# 🚀 Live Demo
+
+🎯 **Experience the website:**  
+https://technopage.netlify.app/#services
+
+---
+
+# 🧠 Project Philosophy
+
+The project focuses on **three core principles**:
+
+✨ **Clarity**  
+Simple and intuitive structure for users.
+
+⚡ **Performance**  
+Minimal dependencies and optimized rendering.
+
+🎨 **Experience**  
+Micro-interactions and smooth animations for storytelling.
+
+> *A landing page should not just inform — it should inspire.*
+
+---
+
+# 🧩 Tech Stack
+
+| Layer | Technologies | Purpose |
+|------|--------------|--------|
+| **Structure** | HTML5 | Semantic and accessible page layout |
+| **Styling** | CSS3, Flexbox, Grid | Responsive and modern design |
+| **Interaction** | Vanilla JavaScript | DOM interactions and UI logic |
+| **Animation** | GSAP + ScrollTrigger | Smooth animations and scroll reveals |
+| **Scrolling** | Locomotive Scroll | Smooth native-like page transitions |
+| **Deployment** | Netlify | Fast and reliable hosting |
+
+---
+
+# 💼 Core Features
+
+| 🧩 Feature | 🌟 Description |
+|-----------|---------------|
+| 🎬 **Cinematic Hero Section** | Animated hero section with smooth entrance transitions |
+| 📱 **Responsive Design** | Fully optimized for desktop, tablet, and mobile |
+| 🌀 **Smooth Scrolling** | Seamless scrolling experience using Locomotive Scroll |
+| 🎨 **Scroll Animations** | GSAP + ScrollTrigger powered reveal animations |
+| 💼 **Interactive Services Section** | Hover animations and micro-interactions |
+| 💬 **Testimonials Carousel** | Infinite swipe-friendly client testimonials |
+| ⚡ **Performance Optimized** | Lazy loading images and efficient DOM updates |
+| 📩 **Contact Form** | Simple validation with user-friendly interface |
+
+---
+
+# 🖼️ Preview
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/963c79aa-da62-460c-9ec8-a6c4d089396e" width="900">
+</p>
+
+---
+
+# 🚧 Future Improvements
+
+Possible enhancements for future versions:
+
+Dark / Light theme toggle
+
+Blog integration
+
+Backend contact form handling
+
+CMS integration for dynamic content
+
+Improved SEO optimization
+
+📜 License
+
+This project is licensed under the MIT License.
+See the LICENSE file for details.
+
+❤️ Author
+<p align="center"> <b>✨ Created with ❤️ by <a href="https://github.com/hey-itz-sameerkhan">Sameer Khan</a> ✨</b> <br> <sub>Crafting modern web experiences</sub> </p> ```
